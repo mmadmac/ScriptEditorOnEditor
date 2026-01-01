@@ -1,11 +1,17 @@
 # ScriptEditorOnEditor
+
 A script editor inside Unity's Editor.
+
 Supports autoSave.
+
 Supports Save and reCompile.
+
 
 So you won't have to open Visual Studio for a fast and simple change.
 
+
 INSTALL
+
 1.- Download last Release. Open .rar and extract ScriptEditorWindow.cs
 
 2.- Create a folder in your project. Name it Editor.
